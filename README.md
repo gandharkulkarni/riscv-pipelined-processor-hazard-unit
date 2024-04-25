@@ -1,2 +1,2 @@
-# project06-starter
-Project06 starter code
+# project07-starter
+Project07 Starter Circuits
